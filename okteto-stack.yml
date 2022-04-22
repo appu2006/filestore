@@ -12,6 +12,7 @@ services:
       CUSTOM_CAPTION: $CUSTOM_CAPTION
       FORCE_SUB_MESSAGE: $FORCE_SUB_MESSAGE
       ADMINS: $ADMINS
+      DB_URI: $DB_URI
       PROTECT_CONTENT: $PROTECT_CONTENT
     resources:
       cpu: 1000m
