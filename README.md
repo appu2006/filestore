@@ -49,7 +49,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ### Deploy on Railway
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/M41Cg_?referralCode=akash2006)
 
 ### Deploye on oktecto
 
